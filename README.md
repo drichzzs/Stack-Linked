@@ -19,3 +19,6 @@ pop(): This method removes and returns the element at the top of the stack.
 peek(): This method returns the element at the top of the stack without removing it.
 
 toString(): This method returns a string representation of the elements in the stack.
+
+
+<img src="https://aldrich.smokyz01.repl.co/a3.png"/>
